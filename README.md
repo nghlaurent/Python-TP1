@@ -10,6 +10,7 @@ Avant de commencer, il faut avoir Python, qui doit être installer sur l'ordinat
 ### Installation du logiciel
 
 - Sous Windows
+
 	Télécharger la dernière version : ``https://www.python.org/downloads/``
 
 - Sous Ubuntu/Debian
@@ -24,6 +25,7 @@ Un environnement virtuel est une arborescence de dossiers qui contiens les fichi
 - Création d'un virtualenv
 
 	``sudo apt install python3``
+
 	S'il y a une erreur : ``sudo apt install python3-venv``
 
 - Activation de l'environnement
@@ -39,8 +41,6 @@ Un environnement virtuel est une arborescence de dossiers qui contiens les fichi
 	◉ ``pip install -e .`` (quand on est dans le projet)
 
 	◉ ``pip install 'mon_module'``
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
 
 
 ## VScode
