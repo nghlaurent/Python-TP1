@@ -11,7 +11,7 @@ Avant de commencer, il faut avoir Python, qui doit être installer sur l'ordinat
 
 - Sous Windows
 
-	Télécharger la dernière version : ``https://www.python.org/downloads/``
+	_Télécharger la dernière version :_ ``https://www.python.org/downloads/``
 
 - Sous Ubuntu/Debian
 
@@ -84,6 +84,7 @@ Git permet à différentes versions d'un même fichier de coexister. Les dévelo
 	``git pull origin master``
 
 - Commit
+
 	``git commit -m "message"``
 
 - Push du dépot local
