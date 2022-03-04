@@ -13,6 +13,7 @@ Avant de commencer, il faut avoir Python, qui doit être installer sur l'ordinat
 	Télécharger la dernière version : ``https://www.python.org/downloads/``
 
 - Sous Ubuntu/Debian
+
 	``sudo apt install python3``
 
 
